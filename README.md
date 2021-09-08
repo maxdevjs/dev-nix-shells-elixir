@@ -4,11 +4,11 @@
 
 ## What is it?
 
-A [nix-shell](https://nixos.org/manual/nix/stable/#description-13) template to setup an [Elixir](elixir-lang.org/) development environment with [direnv](https://github.com/direnv/direnv) integration (if installed).
+A [nix-shell](https://nixos.org/manual/nix/stable/#description-13) template to setup an [Elixir](https://elixir-lang.org/) development environment with [direnv](https://github.com/direnv/direnv) integration (if installed).
 
 Built gathering inspiration from several [sources](#resources), it makes available:
 
-- `unstable.`[elixir](elixir-lang.org/)
+- `unstable.`[elixir](https://elixir-lang.org/)
 - `unstable.`[erlang](https://www.erlang.org/)
 - `unstable.`[elixir_ls](https://github.com/elixir-lsp/elixir-ls) ([LSP](https://microsoft.github.io/language-server-protocol/))
 - `unstable.`[rebar3](https://github.com/erlang/rebar3): build tool that makes it easy to compile and test [Erlang](https://www.erlang.org/) applications and releases
