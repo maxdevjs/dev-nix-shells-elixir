@@ -8,10 +8,10 @@ A [nix-shell](https://nixos.org/manual/nix/stable/#description-13) template to s
 
 Built gathering inspiration from several [sources](#resources), it makes available:
 
-- [Erlang](https://www.erlang.org/) and [Elixir](elixir-lang.org/)
-- unstable.[elixir_ls](https://github.com/elixir-lsp/elixir-ls) ([LSP](https://microsoft.github.io/language-server-protocol/))
-- `nodejs-12_x` for [WebPack](https://webpack.js.org/) swing
-- [rebar3](https://github.com/erlang/rebar3): build tool that makes it easy to compile and test [Erlang](https://www.erlang.org/) applications and releases
+- `unstable.`[elixir](elixir-lang.org/)
+- `unstable.`[erlang](https://www.erlang.org/)
+- `unstable.`[elixir_ls](https://github.com/elixir-lsp/elixir-ls) ([LSP](https://microsoft.github.io/language-server-protocol/))
+- `unstable.`[rebar3](https://github.com/erlang/rebar3): build tool that makes it easy to compile and test [Erlang](https://www.erlang.org/) applications and releases
 
 ## Resources
 
