@@ -1,4 +1,4 @@
-# Elixir
+# nix-shell for Elixir
 
 > WIP
 
